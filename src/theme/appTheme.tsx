@@ -25,7 +25,6 @@ export const styles = StyleSheet.create({
         flexDirection:'row',
         justifyContent:'center',
         marginBottom:18,
-        paddingHorizontal: 10
     },
     boton:{
         height:80,
@@ -38,7 +37,7 @@ export const styles = StyleSheet.create({
     botonTexto:{
         textAlign:'center',
         fontSize: 30,
-        fontWeight:'400',
+        fontWeight:'500',
         color:'white'
     }
 })
